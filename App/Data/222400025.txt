@@ -1,0 +1,15 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Name = Shanto
+Address = Dokkhinkhan
+Phone = 01614143556
+E-mail = shanto@gmail.com
+NID = 222400025
+Marital Status = Yes
+Custom Package Number : 2 (Student)
+Number of room : 2
+nFood Service : yes
+WiFI plan : Yes
+You have to pay : 1000 taka only
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+

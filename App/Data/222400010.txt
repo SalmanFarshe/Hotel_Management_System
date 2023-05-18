@@ -1,0 +1,12 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Name = Salman Farshe zihad
+Address = Ashulia saver dhaka
+Phone = 01747289024
+E-mail = salmanfarshe@gmail.com
+NID = 222400010
+Marital Status = No
+Build in Package Number : 2 (Student)
+You have to pay : 600 taka only
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+
